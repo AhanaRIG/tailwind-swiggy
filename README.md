@@ -1,6 +1,40 @@
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Swiggy UI Clone
+
+## Description
+This project is a frontend UI clone inspired by the Swiggy food delivery platform. It was built using React and Tailwind CSS to practice component-based design, layout structuring, and modern frontend development concepts.
+
+The project focuses on recreating the visual layout and UI components rather than implementing backend functionality.
+
+## Features
+- Swiggy-inspired homepage layout
+- Reusable React components
+- Menu and restaurant UI sections
+- Basic navigation and layout structure
+
+## Tech Stack
+- React
+- Tailwind CSS
+- JavaScript
+- Vite
+
+## Limitations
+- This project is not responsive for all screen sizes.
+- Backend functionality and real data integration are not implemented.
+
+## Learning Outcomes
+- Improved understanding of React component structure
+- Practiced styling using Tailwind CSS
+- Learned layout design and UI structuring
+- Gained experience organizing frontend project structure
+
+## Future Improvements
+- Make the UI fully responsive
+- Add backend integration
+- Implement dynamic data loading
+- Improve UI consistency and animations
 
 Currently, two official plugins are available:
 
