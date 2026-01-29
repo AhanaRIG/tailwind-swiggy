@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.black-overlay{
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+/* The BELOW class is for the commented div in card.jsx after img tag*/
+.image-overlay{
+    background-image: linear-gradient(to bottom, rgba(255,255,255,0)50%,rgba(0,0,0,1));
+}
